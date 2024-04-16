@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_shirish_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shirish_11" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shirish-shrestha-153510258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirish shrestha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCrGvurXrdFBtCf-IODnDAKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shirish shrestha" height="30" width="40" /></a>
+<a href="https://twitter.com/_shirish_11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shirish_11" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shirish-shrestha-153510258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirish shrestha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrGvurXrdFBtCf-IODnDAKg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shirish shrestha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
