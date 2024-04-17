@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://shirishshrestha.netlify.app/](https://shirishshrestha.netlify.app/)
 
-- 💬 Ask me about **react, js, gsap**
-
 - 📫 How to reach me **shirish.shrestha07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
