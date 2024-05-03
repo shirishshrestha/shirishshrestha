@@ -8,7 +8,11 @@
 - 👨‍💻 All of my projects are available at [https://shirishshrestha.netlify.app/](https://shirishshrestha.netlify.app/)
 
 - 📫 How to reach me **shirish.shrestha07@gmail.com**
+<br/>
 
+<br/>
+
+<br/>
 ## 📱 Connect with me:
 <p align="left">
 <a href="https://twitter.com/_shirish_11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shirish_11" height="30" width="40" /></a>
