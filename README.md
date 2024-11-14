@@ -1,13 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://shirishshrestha.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shirish Shrestha</h1>
-<h3 align="center">I'm a dedicated student diving into web development.</h3>
+<h3 align="center">I'm a dedicated learner diving into web development.</h3>
 <img align="right"  alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMyODU1MDAsIm5iZiI6MTcxMzI4NTIwMCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE2VDE2MzMyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjYzAyMTY0MGExMGU3Njc4YWE2YjkwYjg0MzAxNWE2MGViZmNmMWM0OTZjNGQyZTNlZThlZWUxN2RlZjRmZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RhFlqxMPCulnxyrZWiHJ-5_hCXbteQGfl1UldLPP68w"/>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://shirishshrestha.netlify.app/](https://shirishshrestha.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shirishshrestha.com.np/](https://shirishshrestha.com.np/)
 
-- 📫 How to reach me **shirish.shrestha07@gmail.com**
+- 📫 How to reach me **contact@shirishshrestha.com.np**
 <br/>
 
 <br/>
